@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="strategy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/strategy_jar</output-path>
+    <root id="archive" name="strategy.jar">
+      <element id="module-output" name="strategy" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="uasobserver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/uasobserver_jar</output-path>
+    <root id="archive" name="uasobserver.jar">
+      <element id="module-output" name="uasobserver" />
+    </root>
+  </artifact>
+</component>
